@@ -77,7 +77,7 @@
               "color": "#232323"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#7f1933"
+              "color": "#ffffff"
             }
           },
           "_name": "header6",
