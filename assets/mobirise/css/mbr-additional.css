@@ -915,10 +915,39 @@ section.lazy-placeholder:after {
 .cid-s4sJah7hZh a.img {
   pointer-events: none;
 }
+.cid-ssXtrv7pnk {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-ssXtrv7pnk .mbr-section-subtitle {
+  color: #000000;
+  text-align: center;
+}
+.cid-ssXrh8NYiZ {
+  padding-top: 0px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-ssXrh8NYiZ h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-ssXrh8NYiZ p {
+  color: #767676;
+  text-align: left;
+}
+.cid-ssXrh8NYiZ .card-box {
+  padding-top: 2rem;
+}
+.cid-ssXrh8NYiZ .card-wrapper {
+  height: 100%;
+}
 .cid-s4sNaLjz1W {
   padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/collage2-3.png");
+  padding-bottom: 105px;
+  background-color: #84f9eb;
 }
 .cid-s4sNaLjz1W .list-group-item {
   padding: .75rem 3.25rem;
